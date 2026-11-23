@@ -1,0 +1,9 @@
+{
+  "name": "small-truck-03",
+  "capacity": 20,
+  "items": [
+    {"id": 0, "weight": 10, "value": 60},
+    {"id": 1, "weight": 20, "value": 100},
+    {"id": 2, "weight": 30, "value": 120}
+  ]
+}
